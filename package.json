@@ -1,0 +1,31 @@
+{
+  "name": "schulze-method",
+  "version": "0.0.1",
+  "description": "Voting system that selects a single winner using votes that express peferences",
+  "keywords": [
+    "schulze",
+    "method",
+    "voting",
+    "vote",
+    "candidate"
+  ],
+  "main": "index.js",
+  "author": {
+    "name": "Thomas Rupprecht",
+    "email": "rupprecht.thomas+git@gmail.com",
+    "url": "http://blog.ximex.at/"
+  },
+  "contributors": [
+    {
+      "name": "Thomas Rupprecht",
+      "email": "rupprecht.thomas+git@gmail.com",
+      "url": "http://blog.ximex.at/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ximex/schulze-method.git"
+  },
+  "bugs": "https://github.com/ximex/schulze-method/issues",
+  "license": "MIT"
+}
